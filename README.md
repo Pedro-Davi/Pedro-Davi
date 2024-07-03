@@ -14,7 +14,7 @@
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div> </br>
 
-Apaixonado por tecnologia e pelas formas de se divertir por através da programação. 
+Apaixonado por tecnologia e pelas formas de se divertir através da programação. 
 
 ## Formas de contato:
 
